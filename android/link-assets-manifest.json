@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/arial.ttf",
+      "sha1": "66154062e9902d6664f9855bfc04138e8b0c7c53"
+    },
+    {
+      "path": "src/assets/fonts/ariblk.ttf",
+      "sha1": "e6528182997a46a5daf8008fab9ec5fed0a84ce2"
+    }
+  ]
+}
